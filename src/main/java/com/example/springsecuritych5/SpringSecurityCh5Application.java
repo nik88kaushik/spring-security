@@ -1,13 +1,13 @@
-package com.example.springsecuritych3;
+package com.example.springsecuritych5;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSecurityCh4Application {
+public class SpringSecurityCh5Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringSecurityCh4Application.class, args);
+		SpringApplication.run(SpringSecurityCh5Application.class, args);
 	}
 
 }
